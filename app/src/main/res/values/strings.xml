@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Life Counter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="p1">One</string>
+    <string name="p2">Two</string>
+    <string name="p3">Three</string>
+    <string name="p4">Four</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="p5">+5</string>
+    <string name="m5">-5</string>
+</resources>
